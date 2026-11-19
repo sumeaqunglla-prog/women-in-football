@@ -1,0 +1,8 @@
+{
+  "name": "Women in Football — Breaking Barriers",
+  "description": "More Than a Game: An interactive editorial feature exploring the history, struggles, legends, statistics, and future of women's football.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
